@@ -25,8 +25,8 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, desenvolviment
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radial" alt="Linguagens Mais Usadas" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pedromoravieski-codes&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromoravieski-codes&layout=compact&theme=radial" alt="Linguagens Mais Usadas" height="175"/>
 </div>
 
 ### 📬 Como me encontrar
