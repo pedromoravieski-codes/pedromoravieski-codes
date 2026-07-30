@@ -22,13 +22,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, desenvolviment
 * 🔭 **No momento estou focado em:** Estruturas de dados, Engenharia de Software e arquitetura de sistemas orientados a objetos.
 * 🎮 **Nas horas vagas:** Me encontra nos jogos táticos/competitivos (Valorant, Rainbow Six Siege, Overwatch, Fortnite).
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedromoravieski-codes&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromoravieski-codes&layout=compact&theme=radial" alt="Linguagens Mais Usadas" height="175"/>
-</div>
-
 ### 📬 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-moravieski)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmoravieski@gmail.com)
